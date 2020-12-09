@@ -1,4 +1,4 @@
-name: sector16
+name: byco_blog
 channels:
   - plotly
   - conda-forge
